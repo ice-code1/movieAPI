@@ -1,0 +1,40 @@
+{
+    "movie1" :{
+        "id":1,
+        "name":"Jumanji",
+        "duration":104,
+        "rating":4.5,
+        "rented":false
+    },
+
+    "movie2" :{
+        "id":2,
+        "name":"Baby day out",
+        "duration":120,
+        "rating":4.7,
+        "rented": false
+    },
+
+    "movie3" :{
+        "id":3,
+        "name":"Samuri Jack",
+        "duration":104,
+        "rating":3.8,
+        "rented":true
+    },
+
+    "movie4" :{
+        "id":4,
+        "name":"Fast and Furious 9",
+        "duration":130,
+        "rating":4.2,
+        "rented":false
+    },
+    "movie5" :{
+        "id":5,
+        "name":"Kung fu Panda",
+        "duration":104,
+        "rating":5.0,
+        "rented":true
+    }
+}
